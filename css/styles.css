@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(189, 179, 179);
+    font-family: 'Comfortaa', cursive;
+
+}
+.container{
+    margin-top: 40px;
+    padding:10px;
+}
+.container img{
+    width: 360px;
+    height: 500px;
+    margin-left: 120px;
+}
+h1{
+    text-align: center;
+}
+.information{
+    position:absolute;
+    top: 30%;
+    left: 40%;
+
+}
+dt, dd{
+    text-align: center;
+    margin: 10px 15px;
+}
+dt{
+    font-weight: bold;
+}
+
+dd{
+    font-size: 1rem;
+}
